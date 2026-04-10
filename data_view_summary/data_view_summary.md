@@ -14,11 +14,6 @@ environment:: Sandbox
 <img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png" width="200">
 
 ## 📎 Assets
-
-**Purpose:**  
-Provides a structured overview of a CJA Data View, including key metrics, dimensions, and usage guidance.
-
-Project Description [Markdown](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.md)
 - PDF [data_view_summary.pdf](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.pdf)
 - Image [data_view_summary.png](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png)
 

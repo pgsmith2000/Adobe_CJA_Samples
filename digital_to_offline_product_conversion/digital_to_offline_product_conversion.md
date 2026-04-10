@@ -13,10 +13,7 @@ environment:: Sandbox
 
 ---
 
-![[Digital to Offline Product Conversion.png]]
-
 ## 📎 Assets
-
 - PDF [digital_to_offline_product_conversion.pdf](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.pdf)
 - Image [digital_to_offline_product_conversion.png](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.png)
 
