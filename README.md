@@ -32,7 +32,7 @@ Each folder represents a standalone analysis use case and contains:
 
 <img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png" width="200">
 
-**Purpose:**  
+**Purpose:**
 Provides a structured overview of a CJA Data View, including key metrics, dimensions, and usage guidance.
 
 Project Description [Markdown](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.md)
