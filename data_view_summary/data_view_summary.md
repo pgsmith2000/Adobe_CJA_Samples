@@ -11,12 +11,12 @@ environment:: Sandbox
 
 ---
 
-![[Data View Summary.png]]
+![[data_view_summary.png]]
 
 ## 📎 Assets
 
-- 📄 [[Data View Summary.pdf]]
-- 🖼️ [[Data View Summary.png]]
+- 📄 [[data_view_summary.pdf]]
+- 🖼️ [[data_view_summary.png]]
 
 ## 📌 Description
 
@@ -110,4 +110,4 @@ This template follows a strong structure:
 ## 🔗 Related
 
 - [[CJA Sandbox Templates]]
-- [[CJA Sandbox Template - Digital to Offline Product Analysis]]
+- [[digital_to_offline_product_conversion]]

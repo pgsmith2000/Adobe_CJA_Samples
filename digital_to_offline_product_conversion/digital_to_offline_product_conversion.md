@@ -112,4 +112,4 @@ This template follows a strong analytical progression:
 ## 🔗 Related
 
 - [[CJA Sandbox Templates]]
-- [[CJA Sandbox Template - Data View Summary]]
+- [[data_view_summary]]
