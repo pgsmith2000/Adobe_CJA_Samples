@@ -16,7 +16,9 @@ environment:: Sandbox
 ## 📎 Assets
 
 - 📄 [[data_view_summary.pdf]]
+
 - 🖼️ [[data_view_summary.png]]
+![alt text](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png?raw=true)
 
 ## 📌 Description
 
