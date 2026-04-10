@@ -38,10 +38,14 @@ Provides a structured overview of a CJA Data View, including key metrics, dimens
 Project Description [Markdown](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.md)
 - PDF [data_view_summary.pdf](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.pdf)
 - Image [data_view_summary.png](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png)
+
 ---
 
 ### 2. Digital to Offline Product Conversion
 📁 `Digital to Offline Product Conversion`
+
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.png" width="200">
+
 
 **Purpose:**  
 Analyzes how digital interactions influence offline (POS / call center) purchases.
@@ -51,6 +55,11 @@ Analyzes how digital interactions influence offline (POS / call center) purchase
 - Digital → Offline attribution patterns  
 - Event-based vs session-based analysis  
 - Identification of non-digital conversion paths  
+
+
+Project Description [Markdown](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.md)
+- PDF [digital_to_offline_product_conversion.pdf](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.pdf)
+- Image [digital_to_offline_product_conversion.png](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.png)
 
 ---
 
