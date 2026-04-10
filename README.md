@@ -29,6 +29,7 @@ Each folder represents a standalone analysis use case and contains:
 
 ### 1. Data View Summary
 📁 `Data View Summary`
+![](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png =250x)
 
 **Purpose:**  
 Provides a structured overview of a CJA Data View, including key metrics, dimensions, and usage guidance.
