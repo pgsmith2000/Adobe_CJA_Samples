@@ -9,14 +9,16 @@ environment:: Sandbox
 **Name:** Digital to Offline Product Analysis  
 **Link:** https://analytics.adobe.com/?linkId=24382217-dc9a-455f-9ec9-8468db86d90a&dpc=acc
 
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.png" width="200">
+
 ---
 
 ![[Digital to Offline Product Conversion.png]]
 
 ## 📎 Assets
 
-- 📄 [[Digital to Offline Product Conversion.pdf]]
-- 🖼️ [[Digital to Offline Product Conversion.pdf]]
+- PDF [digital_to_offline_product_conversion.pdf](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.pdf)
+- Image [digital_to_offline_product_conversion.png](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_to_offline_product_conversion.png)
 
 ## 📌 Description
 
