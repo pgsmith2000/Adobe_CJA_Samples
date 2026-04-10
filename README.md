@@ -33,10 +33,7 @@ Each folder represents a standalone analysis use case and contains:
 **Purpose:**  
 Provides a structured overview of a CJA Data View, including key metrics, dimensions, and usage guidance.
 
-**Contents:**
-- Markdown template for documenting a Data View [/Data View Summary/CJA Sandbox Template - Data View Summary.md]
-- Workspace-style summary  approach
-- Supporting [PDF]("/Data View Summary/Data View Summary.pdf) and [screenshot]("/Data View Summary/Data View Summary.png")
+Project Description [PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/Data%20View%20Summary/CJA%20Sandbox%20Template%20-%20Data%20View%20Summary.md)
 
 ---
 
@@ -51,11 +48,6 @@ Analyzes how digital interactions influence offline (POS / call center) purchase
 - Digital → Offline attribution patterns  
 - Event-based vs session-based analysis  
 - Identification of non-digital conversion paths  
-
-**Contents:**
-- Template for cross-channel analysis
-- Example workspace output
-- Supporting visuals
 
 ---
 
