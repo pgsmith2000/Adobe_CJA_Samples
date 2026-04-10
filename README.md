@@ -35,8 +35,8 @@ Provides a structured overview of a CJA Data View, including key metrics, dimens
 
 **Contents:**
 - Markdown template for documenting a Data View [/Data View Summary/CJA Sandbox Template - Data View Summary.md]
-- Workspace-style summary approach
-- Supporting PDF[/Data View Summary/Data View Summary.pdf] and screenshot[/Data View Summary/Data View Summary.png]
+- Workspace-style summary  approach
+- Supporting [PDF](/Data View Summary/Data View Summary.pdf) and [screenshot](/Data View Summary/Data View Summary.png)
 
 ---
 
