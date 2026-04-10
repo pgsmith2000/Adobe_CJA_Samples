@@ -33,8 +33,9 @@ Each folder represents a standalone analysis use case and contains:
 **Purpose:**  
 Provides a structured overview of a CJA Data View, including key metrics, dimensions, and usage guidance.
 
-Project Description [PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/Data%20View%20Summary/CJA%20Sandbox%20Template%20-%20Data%20View%20Summary.md)
-
+Project Description [Markdown](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.md)
+- PDF [data_view_summary.pdf](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.pdf)
+- Image [data_view_summary.png](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png)
 ---
 
 ### 2. Digital to Offline Product Conversion
