@@ -49,7 +49,7 @@ Key findings show that while abandonment journeys dominate immediate conversions
 ### 🔹 Project Name: Digital Product Views & Conversion Analysis  
 **(Intermediate — Conversion Behavior & Cohort Analysis)**
 
-<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_product_views_conversion/digital_product_views_conversion.png" alt="Digital Product Views & Conversion Thumbnail" width="400"/>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.png" alt="Digital Product Views & Conversion Thumbnail" width="400"/>
 
 **Executive Summary**  
 This project analyzes digital product engagement and conversion behavior across online and offline channels. The focus is on understanding how users interact with product views and how those interactions translate into downstream purchase activity.
@@ -67,8 +67,8 @@ Key findings emphasize the importance of cross-channel analysis, showing that wh
 
 **Links**
 
-- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_product_views_conversion/digital_product_views_conversion.pdf)
-- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_product_views_conversion/digital_product_views_conversion.png)
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.png)
 
 ---
 
