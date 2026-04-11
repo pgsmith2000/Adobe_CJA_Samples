@@ -22,8 +22,8 @@ Each project includes:
 ### 🔹 Project Name: AJO Journey Optimization: Engagement, Conversion, and Revenue Attribution  
 **(Advanced — Attribution Modeling & Omni-Channel Analysis)**
 
-<a href="./ajo_journey_optimization/ajo_journey_optimization.pdf">
-  <img src="./ajo_journey_optimization/ajo_journey_optimization.png" alt="AJO Journey Optimization Thumbnail" width="400"/>
+<a href="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization/ajo_journey_optimization.pdf">
+  <img src="https://raw.githubusercontent.com/pgsmith2000/Adobe_CJA_Samples/main/ajo_journey_optimization/ajo_journey_optimization.png" alt="AJO Journey Optimization Thumbnail" width="400"/>
 </a>
 
 **Executive Summary**  
@@ -41,8 +41,9 @@ Key findings show that while abandonment journeys dominate immediate conversions
 - Identification of “closer” vs “influencer” journeys  
 
 **Links**
-- 📄 [View PDF](./ajo_journey_optimization/ajo_journey_optimization.pdf)  
-- 🖼️ [View Image](./ajo_journey_optimization/ajo_journey_optimization.png)
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization/ajo_journey_optimization.pdf)  
+- 🖼️ [View Image](https://raw.githubusercontent.com/pgsmith2000/Adobe_CJA_Samples/main/ajo_journey_optimization/ajo_journey_optimization.png)
+
 ---
 
 ### 🔹 **Project Name: [INSERT ACTUAL NAME FROM PDF]**
