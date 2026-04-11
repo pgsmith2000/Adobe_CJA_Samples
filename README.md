@@ -72,25 +72,29 @@ Key findings emphasize the importance of cross-channel analysis, showing that wh
 
 ---
 
-### 🔹 **Project Name: [INSERT ACTUAL NAME FROM PDF]**
+### 🔹 Project Name: Data View Summary  
+**(Foundational — Data Modeling & CJA Structure)**
 
-<a href="./project-folder/project-file.pdf">
-  <img src="./project-folder/project-image.png" alt="Project Thumbnail" width="400"/>
-</a>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png" alt="Data View Summary Thumbnail" width="400"/>
 
 **Executive Summary**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This project provides a structured overview of a Customer Journey Analytics (CJA) data view, focusing on the underlying data model, key dimensions, and metrics available for analysis. The goal is to establish a clear understanding of how data is organized and how it can be leveraged for reporting and insights.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The analysis highlights core components such as event structure, identity stitching, and key performance metrics, serving as a foundational reference for building more advanced analyses. By documenting the data view and its capabilities, this project supports consistent and accurate use of CJA across downstream reporting and analysis.
+
+Key findings emphasize the importance of well-defined data structures, consistent metric definitions, and a clear understanding of how dimensions and events interact within the CJA environment.
 
 **Key Focus Areas**
-- Lorem ipsum dolor sit amet  
-- Consectetur adipiscing elit  
-- Sed do eiusmod tempor incididunt  
+- CJA data view structure and organization  
+- Key dimensions, metrics, and events  
+- Identity stitching and data relationships  
+- Metric definition and consistency  
+- Foundational setup for downstream analysis  
 
 **Links**
-- 📄 [View PDF](./project-folder/project-file.pdf)  
-- 🖼️ [View Image](./project-folder/project-image.png)
+
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png)
 
 ---
 
