@@ -44,28 +44,31 @@ Key findings show that while abandonment journeys dominate immediate conversions
 - 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.pdf)
 - 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.png)
 
-
 ---
 
-### 🔹 **Project Name: [INSERT ACTUAL NAME FROM PDF]**
+### 🔹 Project Name: Digital Product Views & Conversion Analysis  
+**(Intermediate — Conversion Behavior & Cohort Analysis)**
 
-<a href="./project-folder/project-file.pdf">
-  <img src="./project-folder/project-image.png" alt="Project Thumbnail" width="400"/>
-</a>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_product_views_conversion/digital_product_views_conversion.png" alt="Digital Product Views & Conversion Thumbnail" width="400"/>
 
 **Executive Summary**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This project analyzes digital product engagement and conversion behavior across online and offline channels. The focus is on understanding how users interact with product views and how those interactions translate into downstream purchase activity.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The analysis incorporates cohort-based views to evaluate user behavior over time, along with channel segmentation to distinguish between online and point-of-sale (POS) conversions. By comparing engagement patterns and conversion outcomes, the project highlights differences in how digital interactions contribute to both immediate and delayed purchase behavior.
+
+Key findings emphasize the importance of cross-channel analysis, showing that while digital engagement drives strong intent, a meaningful portion of conversions may occur outside the digital channel.
 
 **Key Focus Areas**
-- Lorem ipsum dolor sit amet  
-- Consectetur adipiscing elit  
-- Sed do eiusmod tempor incididunt  
+- Product view engagement and conversion behavior  
+- Cohort analysis (daily and weekly trends)  
+- Online vs offline (POS) conversion comparison  
+- Channel segmentation and cross-channel insights  
+- Identification of conversion drop-off and engagement patterns  
 
 **Links**
-- 📄 [View PDF](./project-folder/project-file.pdf)  
-- 🖼️ [View Image](./project-folder/project-image.png)
+
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_product_views_conversion/digital_product_views_conversion.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_product_views_conversion/digital_product_views_conversion.png)
 
 ---
 
