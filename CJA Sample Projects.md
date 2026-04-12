@@ -1,12 +1,12 @@
 ---
-type: project_collection
-topic: adobe_cja
-tags:
-  - cja
-  - adobe-analytics
-  - data-storytelling
-  - attribution
-  - portfolio
+type: project_collection  
+topic: adobe_cja  
+tags:  
+- cja  
+- adobe-analytics  
+- data-storytelling  
+- attribution  
+- portfolio  
 created: 2026-04-12
 updated: 2026-04-12
 ---
@@ -28,6 +28,29 @@ Each project includes:
 
 ---
 
+## 🔹 Call Deflection & Digital Self-Service Optimization  
+**(Advanced — Call Center Analytics & Digital Journey Analysis)**  
+  
+![[call_deflection_digital_self_service_optimization.png|400]]  
+  
+**Status:** Draft / In Progress  
+  
+**Executive Summary**  
+This project analyzes the relationship between digital engagement and call center demand, identifying key drivers of call volume, escalation behavior, and cost impact. The analysis connects digital sessions to downstream calls to quantify how customer issues and digital experience gaps contribute to operational load.  
+  
+The project begins with an executive overview of digital-to-call conversion and total cost impact, followed by trend analysis to distinguish between traffic-driven and friction-driven demand. A call reason analysis identifies the primary drivers of call volume, evaluates escalation rates to highlight digital self-service failures, and quantifies cost impact by issue type. A final section links call reasons to digital touchpoints, revealing specific opportunities to improve content, navigation, and self-service effectiveness.  
+  
+Key findings show that while a small percentage of digital sessions result in calls, repeat calling behavior significantly amplifies total call volume and cost. Call demand is concentrated among a small number of issues, with clear opportunities to reduce volume through targeted digital experience improvements.  
+  
+**Key Focus Areas**  
+- Digital → call conversion and repeat calling behavior  
+- Call reason analysis and escalation rate evaluation  
+- Cost impact and prioritization of optimization efforts  
+- Identification of digital failure points (pages driving calls)  
+- Framework for improving self-service and reducing support demand  
+  
+**Links**  
+- [[call_deflection_digital_self_service_optimization.pdf|View PDF]]
 ## 🔹 Marketing Channel Performance: Omni-Channel Attribution & Lifecycle Analysis  
 **(Advanced — Full-Funnel, Lifecycle, and Omni-Channel Analysis)**
 

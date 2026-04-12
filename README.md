@@ -19,36 +19,30 @@ Each project includes:
 
 ---
 
-### 🔹 Project Name: Marketing Channel Performance — Omni-Channel Attribution & Lifecycle Analysis  
-**(Advanced — Full-Funnel, Lifecycle, and Omni-Channel Analysis)**
+### 🔹 Project Name: Call Deflection & Digital Self-Service Optimization  
+**(Advanced — Call Center Analytics & Digital Journey Analysis)**
 
-<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/marketing_channel_performance/marketing_channel_performance.png" alt="Marketing Channel Performance Thumbnail" width="400"/>
+<img src="YOUR_IMAGE_LINK_HERE" alt="Call Deflection Overview" width="600"/>
+
+**Status:** Draft / In Progress  
 
 **Executive Summary**  
-This project provides a comprehensive analysis of marketing performance across channels, combining attribution, lifecycle roles, and cross-channel interaction patterns into a unified analytical framework.
-
-The analysis begins with a **Last Touch (Person)** attribution model to establish baseline channel contribution to orders and revenue. It then expands into **lifecycle analysis**, identifying whether channels are more effective at acquisition or conversion. A **flow analysis** reveals how channels interact across multi-touch journeys, and a final panel evaluates how performance varies across **conversion environments** (App, Web, POS, Call Center).
-
-Key findings show that performance is primarily driven by **channel volume and reach**, while efficiency remains relatively consistent across channels. Channels exhibit distinct roles across the journey, with **Owned channels dominating conversion**, **Paid channels providing scalable acquisition**, and **multi-channel paths driving the majority of conversions**.
+This project analyzes the relationship between digital engagement and call center demand, identifying key drivers of call volume, escalation behavior, and cost impact. The analysis highlights how customer issues, digital experience gaps, and repeat calling behavior contribute to operational load and provides a framework for improving self-service and reducing support costs.
 
 **Key Focus Areas**
-- Marketing channel contribution (orders, revenue, efficiency)  
-- Lifecycle analysis (acquisition vs closure behavior)  
-- Multi-touch flow and pathing analysis  
-- Omni-channel conversion performance (App, Web, POS, Call Center)  
-- Attribution strategy using Last Touch (Person)  
-
-**Links**
-
-- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/marketing_channel_performance/marketing_channel_performance.pdf)
-- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/marketing_channel_performance/marketing_channel_performance.png)
+- Digital → Call conversion and repeat calling behavior  
+- Call reason analysis and escalation rates  
+- Cost impact and optimization opportunities  
+- Digital journey failure points (pages driving calls)  
 
 ---
 
 ### 🔹 Project Name: AJO Journey Optimization: Engagement, Conversion, and Revenue Attribution  
+
 **(Advanced — Attribution Modeling & Omni-Channel Analysis)**
 
 <img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.png" alt="AJO Journey Optimization Thumbnail" width="400"/>
+
 
 **Executive Summary**  
 This project analyzes Adobe Journey Optimizer (AJO) performance across multiple customer journeys, focusing on engagement, conversion, and revenue attribution. The analysis evaluates how different journeys contribute to business outcomes using a structured framework of funnel metrics and attribution models.
@@ -105,13 +99,16 @@ Key findings emphasize the importance of cross-channel analysis, showing that wh
 **Executive Summary**  
 This project provides a structured overview of a Customer Journey Analytics (CJA) data view, focusing on the underlying data model, key dimensions, and metrics available for analysis. The goal is to establish a clear understanding of how data is organized and how it can be leveraged for reporting and insights.
 
-The analysis highlights core components such as event structure, identity stitching, and key performance metrics, serving as a foundational reference for building more advanced analyses.
+The analysis highlights core components such as event structure, identity stitching, and key performance metrics, serving as a foundational reference for building more advanced analyses. By documenting the data view and its capabilities, this project supports consistent and accurate use of CJA across downstream reporting and analysis.
+
+Key findings emphasize the importance of well-defined data structures, consistent metric definitions, and a clear understanding of how dimensions and events interact within the CJA environment.
 
 **Key Focus Areas**
 - CJA data view structure and organization  
 - Key dimensions, metrics, and events  
 - Identity stitching and data relationships  
 - Metric definition and consistency  
+- Foundational setup for downstream analysis  
 
 **Links**
 
