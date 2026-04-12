@@ -22,7 +22,7 @@ Each project includes:
 ### 🔹 Project Name: Call Deflection & Digital Self-Service Optimization  
 **(Advanced — Call Center Analytics & Digital Journey Analysis)**
 
-<img src="YOUR_IMAGE_LINK_HERE" alt="Call Deflection Overview" width="600"/>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.png" alt="Call Deflection Overview" width="600"/>
 
 **Status:** Draft / In Progress  
 
@@ -34,6 +34,11 @@ This project analyzes the relationship between digital engagement and call cente
 - Call reason analysis and escalation rates  
 - Cost impact and optimization opportunities  
 - Digital journey failure points (pages driving calls)  
+
+**Links**
+
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.png)
 
 ---
 
