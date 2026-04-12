@@ -1,3 +1,16 @@
+---
+type: project_collection
+topic: adobe_cja
+tags:
+  - cja
+  - adobe-analytics
+  - data-storytelling
+  - attribution
+  - portfolio
+created: 2026-04-12
+updated: 2026-04-12
+---
+
 # 📊 CJA Sample Projects
 
 This collection contains sample **Adobe Customer Journey Analytics (CJA)** projects demonstrating my experience in:
@@ -12,6 +25,30 @@ Each project includes:
 - 🖼️ A PNG preview image  
 
 > Projects are ordered from most recent and advanced to foundational examples.
+
+---
+
+## 🔹 Marketing Channel Performance: Omni-Channel Attribution & Lifecycle Analysis  
+**(Advanced — Full-Funnel, Lifecycle, and Omni-Channel Analysis)**
+
+![[marketing_channel_performance.png|400]]
+
+**Executive Summary**  
+This project provides a comprehensive analysis of marketing performance across channels, combining attribution, lifecycle roles, and cross-channel interaction patterns into a unified framework.
+
+The analysis begins with a **Last Touch (Person)** attribution model to establish baseline channel contribution to orders and revenue. It then expands into **lifecycle analysis**, identifying whether channels are more effective at acquisition or conversion. A **flow analysis** reveals how channels interact across multi-touch journeys, and a final panel evaluates how performance varies across **conversion environments** (App, Web, POS, Call Center).
+
+Key findings show that performance is primarily driven by **channel volume and reach**, while efficiency remains relatively consistent. Channels exhibit distinct roles across the journey, with **Owned channels dominating conversion**, **Paid channels providing scalable acquisition**, and **multi-channel paths driving the majority of conversions**.
+
+**Key Focus Areas**
+- Marketing channel contribution (orders, revenue, efficiency)  
+- Lifecycle analysis (acquisition vs closure behavior)  
+- Multi-touch flow and pathing analysis  
+- Omni-channel conversion performance (App, Web, POS, Call Center)  
+- Attribution strategy using Last Touch (Person)  
+
+**Links**
+- [[marketing_channel_performance.pdf|View PDF]]
 
 ---
 
