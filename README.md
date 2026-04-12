@@ -22,7 +22,7 @@ Each project includes:
 ### 🔹 Project Name: Call Deflection & Digital Self-Service Optimization  
 **(Advanced — Call Center Analytics & Digital Journey Analysis)**
 
-<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.png" alt="Call Deflection Overview" width="600"/>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.png" alt="Call Deflection Overview" width="200"/>
 
 **Status:** Draft / In Progress  
 
@@ -46,7 +46,7 @@ This project analyzes the relationship between digital engagement and call cente
 
 **(Advanced — Attribution Modeling & Omni-Channel Analysis)**
 
-<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.png" alt="AJO Journey Optimization Thumbnail" width="400"/>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.png" alt="AJO Journey Optimization Thumbnail" width="200"/>
 
 
 **Executive Summary**  
@@ -73,7 +73,7 @@ Key findings show that while abandonment journeys dominate immediate conversions
 ### 🔹 Project Name: Digital Product Views & Conversion Analysis  
 **(Intermediate — Conversion Behavior & Cohort Analysis)**
 
-<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.png" alt="Digital Product Views & Conversion Thumbnail" width="400"/>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.png" alt="Digital Product Views & Conversion Thumbnail" width="200"/>
 
 **Executive Summary**  
 This project analyzes digital product engagement and conversion behavior across online and offline channels. The focus is on understanding how users interact with product views and how those interactions translate into downstream purchase activity.
@@ -99,7 +99,7 @@ Key findings emphasize the importance of cross-channel analysis, showing that wh
 ### 🔹 Project Name: Data View Summary  
 **(Foundational — Data Modeling & CJA Structure)**
 
-<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png" alt="Data View Summary Thumbnail" width="400"/>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png" alt="Data View Summary Thumbnail" width="200"/>
 
 **Executive Summary**  
 This project provides a structured overview of a Customer Journey Analytics (CJA) data view, focusing on the underlying data model, key dimensions, and metrics available for analysis. The goal is to establish a clear understanding of how data is organized and how it can be leveraged for reporting and insights.
