@@ -25,98 +25,30 @@ Each project includes:
 
 <img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.png" alt="Personalization Effectiveness Thumbnail" width="400"/>
 
-#### **Executive Summary**
+#### **Executive Summary**  
+This project evaluates the effectiveness of personalization strategies by comparing personalized, fallback, and no-offer experiences across user interactions. The analysis separates **coverage (how often offers are shown)** from **effectiveness (how outcomes align with user behavior)** to determine whether personalization is delivering incremental value.
 
-This project evaluates the effectiveness of personalization strategies within Adobe Customer Journey Analytics by comparing **personalized, fallback, and no-offer experiences** across user interactions. The analysis introduces a structured framework that separates **coverage (how often offers are shown)** from **effectiveness (how outcomes align with user behavior)**.
+The project begins with a coverage analysis comparing offer exposure to outcome contribution, revealing that “No Offer” experiences generate a majority of accepted outcomes despite limited exposure. It then introduces a strategy-level effectiveness framework using an **Acceptance vs Rejection Index** to evaluate how well different approaches align with user behavior independent of exposure bias. A final panel translates technical strategies into **business-level offer types**, identifying which experiences perform best in real-world contexts.
 
-Results show that **“No Offer” experiences drive a disproportionate share of accepted outcomes (54%) despite representing only ~32% of exposure**, while both personalized and fallback strategies underperform relative to their reach . This suggests that **baseline user intent may be a stronger driver of outcomes than current offer decisioning logic**.
+A supporting scatterplot combines **effectiveness (index)** with **scale (accepted volume)** to highlight high-impact opportunities and underperforming strategies.
 
-Further analysis at the **strategy and offer level** reveals that:
+Key findings show that baseline user intent is a stronger driver of outcomes than offer exposure, with both personalized and fallback strategies underperforming relative to their reach. Behavior-driven and time-sensitive offers (e.g., abandonment prompts, flash sales) outperform generic promotional and loyalty messaging, while most strategies cluster near baseline performance, indicating incremental rather than transformative impact.
 
-- Behavior-driven and time-sensitive offers (e.g., abandonment prompts, flash sales) align more closely with user acceptance
-- Generic promotional and loyalty messaging underperform relative to other strategies
-- Most strategies cluster near baseline performance, indicating **incremental—not transformative—impact from personalization**
+**Key Focus Areas**
 
-A scatterplot combining **effectiveness (index) and scale (accepted volume)** highlights that the highest-value opportunities are those that deliver both strong alignment with user behavior and meaningful reach.
+- Personalization vs fallback vs no-offer coverage and contribution
+- Strategy effectiveness using accepted vs rejected outcome comparison
+- Offer-level performance translated into business context
+- Identification of high-impact strategies using effectiveness vs scale
+- Evaluation of whether personalization delivers incremental value
 
-#### ⚠️ **Data Limitations & Observed Issues**
+**Data Considerations & Limitations**
 
-This analysis uncovered several important data constraints that impact interpretation:
-
-##### 1. Missing / Incomplete Offer Lifecycle Tracking
-
-- **Offer Presented metrics were unreliable or unavailable at the experience level**, preventing traditional funnel analysis (Presented → Accepted)
-- As a result, effectiveness was measured using **relative outcome distribution (Accepted vs Rejected)** instead of conversion rates
-
-##### 2. Misaligned Event Relationships
-
-- In multiple cases, **Offer Accepted exceeded Offer Presented**, indicating:
-    - Events are not strictly sequential
-    - Metrics may be captured in **different contexts or containers (event vs session vs decision scope)**
-
-👉 This required abandoning standard acceptance rate calculations
-
-##### 3. Attribution Ambiguity
-
-- Accepted outcomes frequently occurred in:
-    - **“No Offer” contexts**
-    - Or contexts not clearly tied to a presented offer
-
-👉 This suggests:
-
-- Weak or indirect attribution between offer exposure and outcome
-- Potential gaps in **decisioning or tracking implementation**
-
-##### 4. Lack of True Experimentation (No A/B or A4T)
-
-- No clear evidence of:
-    - Controlled experiments
-    - Variant-level comparisons
-
-👉 This limits the ability to infer **causal impact of personalization**
-
-##### 5. Strategy Classification Constraints
-
-- “Offer Name” was used as a **proxy for strategy type**
-- These values represent **business use cases**, not standardized categories
-
-👉 Insights are directional and require interpretation rather than strict classification
-
-#### 🧠 **Analytical Approach**
-
-To address these limitations, the analysis applies a consistent framework:
-
-##### Panel 1 — Coverage & Volume
-
-- Compares **exposure vs outcome share**
-- Identifies whether personalization contributes incremental value
-
-##### Panel 2 — Strategy Effectiveness
-
-- Evaluates strategies using an **Acceptance vs Rejection Index**
-- Measures alignment with user behavior independent of exposure bias
-
-##### Panel 3 — Offer-Level Effectiveness (Business Context)
-
-- Translates technical strategy data into **business-readable offer types**
-- Identifies which experiences resonate most with users
-
-##### Scatterplot — Effectiveness vs Impact
-
-- Combines:
-    - **Effectiveness (index)**
-    - **Scale (accepted volume)**
-- Highlights:
-    - High-value opportunities
-    - Underperforming high-volume strategies
-
-#### 🔑 **Key Takeaways**
-
-- Personalization does not inherently drive outcomes—**relevance and intent alignment matter more than offer presence**
-- Many strategies operate near baseline performance, suggesting **limited incremental lift**
-- Behavioral and contextual experiences outperform broad promotional messaging
-- “No Offer” performance indicates that **some experiences may not require intervention at all**
-- Effective optimization requires prioritizing **high-impact, high-alignment strategies**
+- Offer Presented metrics were inconsistent or unreliable at the experience level, preventing traditional conversion analysis
+- Offer Accepted frequently exceeded Offer Presented, indicating misaligned or non-sequential event tracking
+- Weak attribution between offer exposure and outcomes, with many accepted events occurring in “No Offer” contexts
+- No evidence of controlled experimentation (A/B or A4T), limiting causal interpretation
+- Offer Name used as a proxy for strategy type, requiring interpretive grouping rather than strict classification
 
 **Links**
 
