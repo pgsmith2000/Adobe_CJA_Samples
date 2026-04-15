@@ -27,7 +27,43 @@ Each project includes:
 > Projects are ordered from most recent and advanced to foundational examples.
 
 ---
+## 🔹 Personalization vs Fallback Performance Analysis
 
+**(Advanced — Personalization Effectiveness & Decisioning Evaluation)**
+
+![[cja_personalization_strategy_analysis.png|400]]
+
+**Status:** Complete
+
+**Executive Summary**  
+This project evaluates the effectiveness of personalization strategies by comparing personalized, fallback, and no-offer experiences across user interactions. The analysis separates **coverage (how often offers are shown)** from **effectiveness (how outcomes align with user behavior)** to determine whether personalization is delivering incremental value.
+
+The project begins with a coverage analysis comparing offer exposure to outcome contribution, revealing that “No Offer” experiences generate a majority of accepted outcomes despite limited exposure. It then introduces a strategy-level effectiveness framework using an **Acceptance vs Rejection Index** to evaluate how well different approaches align with user behavior independent of exposure bias. A final panel translates technical strategies into **business-level offer types**, identifying which experiences perform best in real-world contexts.
+
+A supporting scatterplot combines **effectiveness (index)** with **scale (accepted volume)** to highlight high-impact opportunities and underperforming strategies.
+
+Key findings show that baseline user intent is a stronger driver of outcomes than offer exposure, with both personalized and fallback strategies underperforming relative to their reach. Behavior-driven and time-sensitive offers (e.g., abandonment prompts, flash sales) outperform generic promotional and loyalty messaging, while most strategies cluster near baseline performance, indicating incremental rather than transformative impact.
+
+**Key Focus Areas**
+
+- Personalization vs fallback vs no-offer coverage and contribution
+- Strategy effectiveness using accepted vs rejected outcome comparison
+- Offer-level performance translated into business context
+- Identification of high-impact strategies using effectiveness vs scale
+- Evaluation of whether personalization delivers incremental value
+
+**Data Considerations & Limitations**
+
+- Offer Presented metrics were inconsistent or unreliable at the experience level, preventing traditional conversion analysis
+- Offer Accepted frequently exceeded Offer Presented, indicating misaligned or non-sequential event tracking
+- Weak attribution between offer exposure and outcomes, with many accepted events occurring in “No Offer” contexts
+- No evidence of controlled experimentation (A/B or A4T), limiting causal interpretation
+- Offer Name used as a proxy for strategy type, requiring interpretive grouping rather than strict classification
+
+**Links**
+
+- [[cja_personalization_strategy_analysis.pdf|View PDF]]
+---
 ## 🔹 Call Deflection & Digital Self-Service Optimization  
 **(Advanced — Call Center Analytics & Digital Journey Analysis)**  
   
@@ -74,7 +110,6 @@ Key findings show that performance is primarily driven by **channel volume and r
 - [[marketing_channel_performance.pdf|View PDF]]
 
 ---
-
 ## 🔹 AJO Journey Optimization: Engagement, Conversion, and Revenue Attribution  
 **(Advanced — Attribution Modeling & Omni-Channel Analysis)**
 
@@ -97,7 +132,6 @@ Key findings show that while abandonment journeys dominate immediate conversions
 - [[ajo_journey_optimization_engagement.pdf|View PDF]]
 
 ---
-
 ## 🔹 Digital Product Views & Conversion Analysis  
 **(Intermediate — Conversion Behavior & Cohort Analysis)**
 
@@ -118,7 +152,6 @@ The analysis incorporates cohort views and channel segmentation to distinguish b
 - [[digital_product_conversion.pdf|View PDF]]
 
 ---
-
 ## 🔹 Data View Summary  
 **(Foundational — Data Modeling & CJA Structure)**
 
@@ -139,7 +172,6 @@ It serves as a foundational reference for understanding how data is organized an
 - [[data_view_summary.pdf|View PDF]]
 
 ---
-
 ## 📌 Notes
 
 - All data shown is sample/demo data from Adobe CJA sandbox environments  
