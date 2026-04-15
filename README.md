@@ -118,10 +118,10 @@ To address these limitations, the analysis applies a consistent framework:
 - “No Offer” performance indicates that **some experiences may not require intervention at all**
 - Effective optimization requires prioritizing **high-impact, high-alignment strategies**
 
-#### **Links**
+**Links**
 
-- 📄 View PDF
-- 🖼 View PNG Image
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/personalization_effectiveness_analysis_cja/cja_personalization_strategy_analysis.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/personalization_effectiveness_analysis_cja/cja_personalization_strategy_analysis.png)
 
 #### 📌 Notes
 
@@ -129,10 +129,13 @@ To address these limitations, the analysis applies a consistent framework:
 - Observed inconsistencies reflect **real-world data challenges in analytics implementations**
 - This project emphasizes **analytical rigor, adaptability, and interpretation under imperfect data conditions**
 
+---
+
 ### 🔹 Project Name: Call Deflection & Digital Self-Service Optimization  
+
 **(Advanced — Call Center Analytics & Digital Journey Analysis)**
 
-<img src="YOUR_IMAGE_LINK_HERE" alt="Call Deflection Overview" width="600"/>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.png" alt="AJO Journey Optimization Thumbnail" width="400"/>
 
 **Status:** Draft / In Progress  
 
@@ -144,6 +147,11 @@ This project analyzes the relationship between digital engagement and call cente
 - Call reason analysis and escalation rates  
 - Cost impact and optimization opportunities  
 - Digital journey failure points (pages driving calls)  
+
+**Links**
+
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.png)
 
 ---
 
