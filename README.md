@@ -23,7 +23,7 @@ Each project includes:
 
 **(Advanced — Personalization Effectiveness & Decisioning Evaluation)**
 
-<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/personalization_effectiveness_analysis_cja/cja_personalization_strategy_analysis.png" alt="Personalization Effectiveness Thumbnail" width="400"/>
+<img src="https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_effectiveness_analysis/cja_personalization_strategy_analysis.png" alt="Personalization Effectiveness Thumbnail" width="400"/>
 
 #### **Executive Summary**
 
@@ -120,8 +120,8 @@ To address these limitations, the analysis applies a consistent framework:
 
 **Links**
 
-- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/personalization_effectiveness_analysis_cja/cja_personalization_strategy_analysis.pdf)
-- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/personalization_effectiveness_analysis_cja/cja_personalization_strategy_analysis.png)
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_effectiveness_analysis/cja_personalization_strategy_analysis.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_effectiveness_analysis/cja_personalization_strategy_analysis.png)
 
 #### 📌 Notes
 
