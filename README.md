@@ -48,8 +48,9 @@ Findings show that baseline user intent often outweighs personalization, with be
 **Business Impact:** Identifies which personalization strategies drive meaningful lift vs. noise.
 
 **Links**
-- 📄 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.pdf  
-- 🖼 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.png  
+
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.png)
 
 ---
 
@@ -66,13 +67,9 @@ Analyzes the relationship between digital engagement and call center demand, ide
 **Business Impact:** Prioritizes high-impact opportunities to reduce call volume and operational cost.
 
 **Links**
-- 📄 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.pdf  
-- 🖼 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.png  
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.png)
 
-**Links**
-
-- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.pdf)
-- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.png)
 
 ---
 
