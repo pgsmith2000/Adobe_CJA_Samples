@@ -69,6 +69,11 @@ Analyzes the relationship between digital engagement and call center demand, ide
 - 📄 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.pdf  
 - 🖼 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/call_deflection_digital_self_service_optimization/call_deflection_digital_self_service_optimization.png  
 
+**Links**
+
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/cja_personalization_strategy_analysis/cja_personalization_strategy_analysis.png)
+
 ---
 
 ### 🔹 AJO Journey Optimization: Engagement & Attribution  
@@ -84,8 +89,8 @@ Findings show abandonment journeys drive immediate conversion, while earlier-sta
 **Business Impact:** Improves investment decisions across journey stages and channels.
 
 **Links**
-- 📄 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.pdf  
-- 🖼 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.png  
+- 📄 [view PFF]( https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/ajo_journey_optimization_engagement/ajo_journey_optimization_engagement.png)
 
 ---
 
@@ -102,8 +107,8 @@ Findings highlight that a meaningful portion of conversions occur outside digita
 **Business Impact:** Supports cross-channel measurement and more accurate attribution of digital influence.
 
 **Links**
-- 📄 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.pdf  
-- 🖼 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.png  
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/digital_to_offline_product_conversion/digital_product_views_conversion.png)
 
 ---
 
@@ -118,8 +123,8 @@ Documents the structure of a CJA data view, including dimensions, metrics, and i
 **Business Impact:** Establishes a reliable foundation for downstream reporting and insights.
 
 **Links**
-- 📄 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.pdf  
-- 🖼 https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png  
+- 📄 [View PDF}(https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.pdf)
+- 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png)
 
 ---
 
