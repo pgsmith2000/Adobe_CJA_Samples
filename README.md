@@ -120,7 +120,7 @@ Documents the structure of a CJA data view, including dimensions, metrics, and i
 **Business Impact:** Establishes a reliable foundation for downstream reporting and insights.
 
 **Links**
-- 📄 [View PDF}(https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.pdf)
+- 📄 [View PDF](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.pdf)
 - 🖼 [View PNG Image](https://github.com/pgsmith2000/Adobe_CJA_Samples/blob/main/data_view_summary/data_view_summary.png)
 
 ---
